@@ -86,10 +86,12 @@ Engineering Student @ P.A. College of Engineering and Technology | Flutter Devel
 
 ---
 
-## 🔗 Connect & Support
+## 🔗 Connect
 
-- LinkedIn: https://www.linkedin.com/in/m-shree-hari-sugith  
-- GitHub: @sugith01  
+📫 Connect on LinkedIn[![LinkedIn](https://img.shields.io/badge/LinkedIn-M.Shree%20Hari%20Sugith-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/m-shree-hari-sugith-650059320/)
+
+
+💻 GitHub: @sugith01
 
 ---
 
